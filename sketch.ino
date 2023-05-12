@@ -12,8 +12,8 @@ const char* WLAN_PASS = "#############" ;
  
 #define AIO_SERVER      "io.adafruit.com" //Adafruit Servidor
 #define AIO_SERVERPORT  1883                  
-#define AIO_USERNAME    "iagoluan"      //Insira o usuario criado na adafruit io
-#define AIO_KEY         "aio_Bmmw18cly3fMW2XL4MfGRzihhpmE" //Insira a chave de comunicação obtida na adafruit io
+#define AIO_USERNAME    "############"      //Insira o usuario criado na adafruit io
+#define AIO_KEY         "#############" //Insira a chave de comunicação obtida na adafruit io
  
 //Váriáveis utilizadas
  
